@@ -1,0 +1,20 @@
+Configure miss: a Python interpreter with version >= 2.6
+Configure miss: to see if prologue searching should be the default
+Configure miss: ps2pdf
+Configure miss: xmlto --stringparam support
+Configure miss: rpmtsInitIterator in -lrpm
+Configure miss: rpmdbNextIterator in -lrpmdb
+Configure miss: rpmFreeCrypto in -lrpmio
+Configure miss: how to link readline libs
+Configure miss: ebl_get_elfmachine in -lebl
+Configure miss: boost/utility/string_ref.hpp usability
+Configure miss: boost/utility/string_ref.hpp presence
+Configure miss: boost/utility/string_ref.hpp
+Configure miss: need for -lboost_system library
+Configure miss: BPatch_object.h usability
+Configure miss: BPatch_object.h presence
+Configure miss: BPatch_object.h
+Configure miss: python-config
+Configure miss: selinux
+Configure miss: javac
+Configure miss: jar
